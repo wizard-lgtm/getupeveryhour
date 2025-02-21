@@ -2,6 +2,9 @@
 
 so simple program notifies you every hour
 
+![image](https://github.com/user-attachments/assets/c80018d5-ba7b-4b70-aaea-21c87ade7e1f)
+
+
 ## virus detection
 because of it's such a small program notifies 3 times in every hour windows defender accuses it's a virus.
 
